@@ -1,0 +1,32 @@
+body{
+    font-size: 16px;
+    color: #fff;
+    background-color: #61122f;
+    font-family: 'Oxygen' ,sans-serif;
+}     
+
+#header-nav{
+  padding: 5px;
+    padding-left: 30px;
+  background: #f6b319;
+  color: white;
+}
+#h11{
+    padding-left: 50%;
+}
+#h12{
+    padding-left: 50%;
+    position: relative;
+    top: 10px;
+    
+}
+.boxed{
+    background-color:  #f6b319;   
+}
+#p1{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+
+
+}
